@@ -21,9 +21,10 @@ using namespace std;
 #define MP make_pair
 
 int main() {
+  ll n;
   cin >> n;
 
-  cout << ans << endl;
+  cout << n << endl;
 
   return 0;
 }
